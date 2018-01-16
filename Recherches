@@ -6,9 +6,17 @@ savoir si les journaux abordaient le thème de la fin du monde et sous quel angl
 afin d'obtenir les thèmes principaux
 
 Méthodes:
-(mettre en wordcloud) 
-(filtres sur les sentiments)
-(analyser le nombre de mots de l'article)
+- mettre en wordcloud
+- filtres sur les sentiments
+- analyser le nombre de mots de l'article
+
+- Analyser les articles de la dernière semaine sur une cinquantaine de journaux 
+
+Méthodes:
+- Géolocalisation
+- Analyse de sentiments
+
 
 - https://www.reddit.com/r/AskReddit/  
 --> Trouver un sujet drôle / intéressant à analyser, possibilité de présenter les résultats sous forme d'un word could par exemple...
+

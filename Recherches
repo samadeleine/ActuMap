@@ -1,2 +1,14 @@
 
-https://www.reddit.com/r/AskReddit/  --> Trouver un sujet drôle / intéressant à analyser, possibilité de présenter les résultats sous forme d'un word could par exemple...
+Thèmes au choix
+- Analyser des articles d'une centaine de journaux une semaine avant le 21/12/2012: 
+savoir si les journaux abordaient le thème de la fin du monde et sous quel angle il l'abordait
+- Analyser les articles de 4 journaux sur les 50 plus grands faits marquants (les plus lus) de l'année 2017 : 
+afin d'obtenir les thèmes principaux
+
+Méthodes:
+(mettre en wordcloud) 
+(filtres sur les sentiments)
+(analyser le nombre de mots de l'article)
+
+- https://www.reddit.com/r/AskReddit/  
+--> Trouver un sujet drôle / intéressant à analyser, possibilité de présenter les résultats sous forme d'un word could par exemple...

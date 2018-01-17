@@ -33,6 +33,8 @@ Attentes :
 - langue au choix
 - méthode: prendre texte anoté et créer une visu 
 - d'autres systèmes d'analyse sont possibles
+- Vérifier le fichier output de différentes méthodes pour voir si c'est bien évalué ou si a coté de la plaque
+- Attention surtout bien vérifier les accents et les apostrophes pour voir si ça découpe correctement
 
 Etapes:
 - choix du corpus

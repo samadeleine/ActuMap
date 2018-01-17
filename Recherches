@@ -25,3 +25,24 @@ Choisir et constituer le corpus
 Créer les métadonnées (provenance du texte, auteur, journal, date, key-words...)
 Faire le tagging avec un outil (TreeTagger, Standford)
 Choisir notre sujet en fonction du tagging
+
+
+Attentes : 
+- justifier choix des logiciels même si on n'a pas un résultat pertinent
+- traitement de texte  
+- langue au choix
+- méthode: prendre texte anoté et créer une visu 
+- d'autres systèmes d'analyse sont possibles
+
+Etapes:
+- choix du corpus
+- récupération max d'infos (meta données)
+- choisir la location principale
+- définir algorithme de choix de polarité générale du texte (mots, phrases...)
+
+A voir prochainement en cours:
+- anotation de texte
+- classification de texte et visu
+
+Source supplémentaire:
+- Europresse

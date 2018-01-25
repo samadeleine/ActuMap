@@ -22,7 +22,8 @@ for l in laListe:
 
 # Lancer Standord pour chaque texte :
 # Attention bien placer Python ou Spyder dans le dossier de Stanford corenlp !
-for l in laListeOK:
+for l in laListeOK[0:2]:
+    print(l)
     toRun = 'java -cp "*" -Xmx1g edu.stanford.nlp.pipeline.StanfordCoreNLP -props samplePropsFr.properties -file '+l+' -outputDirectory output'
     sp.run(toRun)
 # Les fichiers sont enregistrés dans le dossier output
